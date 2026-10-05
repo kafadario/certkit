@@ -1,0 +1,12 @@
+# Keep the build context small, and keep secrets and private tooling out of it.
+.git
+.gradle
+build
+.claude
+.env
+.idea
+.vscode
+.github
+docs
+ai
+*.md
